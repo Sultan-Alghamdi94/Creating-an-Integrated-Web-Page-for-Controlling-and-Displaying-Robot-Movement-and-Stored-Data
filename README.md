@@ -26,7 +26,7 @@ This system will facilitate easy monitoring of the robot's latest command, enhan
 
 ![Task 1](https://github.com/user-attachments/assets/3516af99-2646-464f-b17b-f6d2c27946a9)
 
-Features
+## Features:
 Command Display: Shows the latest command executed with a clear and concise message. User-Friendly Interface: Simple and intuitive design to easily understand the command confirmation.
 
 ![WhatsApp Image 2024-08-11 at 18 44 54_65cbe147](https://github.com/user-attachments/assets/3e359c2f-04a8-47d1-8531-5a818fbde058)
