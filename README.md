@@ -2,7 +2,9 @@
 
 ## Introduction
 
-In this project, we will create a web page to display stored data, specifically the latest command issued to a robot. This page will allow users to view the most recent direction command stored in the database, providing real-time insights into the robot's last received instruction.
+This project includes a web page designed to display the latest command confirmation data. The web page provides a user-friendly interface to view the most recent commands executed by the system.
+
+
 
 ## Project Description
 
@@ -22,6 +24,10 @@ Ensure the page updates to reflect the most current data whenever accessed.
 
 This system will facilitate easy monitoring of the robot's latest command, enhancing decision-making and operational efficiency.
 
+![Task 1](https://github.com/user-attachments/assets/3516af99-2646-464f-b17b-f6d2c27946a9)
+
+Features
+Command Display: Shows the latest command executed with a clear and concise message. User-Friendly Interface: Simple and intuitive design to easily understand the command confirmation.
 
 ![WhatsApp Image 2024-08-11 at 18 44 54_65cbe147](https://github.com/user-attachments/assets/3e359c2f-04a8-47d1-8531-5a818fbde058)
 
